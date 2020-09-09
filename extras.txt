@@ -1,0 +1,6 @@
+from manifest.json
+
+referencing the background.js
+// "background": {
+    //     "scripts": ["background.js"]
+    // },
